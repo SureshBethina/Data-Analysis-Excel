@@ -47,3 +47,9 @@ Here I am attaching the sample screenshot of dashboard I have created.
 
  
 ![image](https://user-images.githubusercontent.com/131325915/233271072-485505a0-5f10-4b50-b1e2-d2fd1d9f1387.png)
+
+
+
+
+
+check out the report tab in After Analysis.xlsx file to check the dashboard.
